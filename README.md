@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋🏼
+- 📫 How to reach me: [hey@rohantinna.com](mailto:hey@rohantinna.com)
 
 <!--
 **tinnarohan/tinnarohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
